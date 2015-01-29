@@ -1,8 +1,5 @@
-desafio-frontend
-================
+# Interview Challenges
 
-Desafio criado pela equipe para ser enviado aos futuros candidatos a frontend no Grupo RBS.
-
-Desenvolver HTML, CSS e JS a partir do .PSD em anexo.
-Usar o máximo de tecnologias e ferramentas possiveis.
-
+* build from psd
+  simple test where the candidate has to build a interface from a given Photoshop file.
+  (build-from-psd.zip)[build-from-psd/build-from-psd.zip]
