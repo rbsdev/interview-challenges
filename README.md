@@ -1,7 +1,6 @@
 # Interview Challenges
 
-* **build from psd**
+* [`build-from-psd.zip`](https://github.com/rbsdev/interview-challenges/raw/master/build-from-psd/build-from-psd.zip)
   <br>
-  simple test where the candidate has to build a interface from a given Photoshop file.
+  simple challenge where the candidate has to build a interface from a given Photoshop file.
   <br>
-  [`build-from-psd.zip`](build-from-psd/build-from-psd.zip)
